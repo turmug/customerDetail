@@ -1,0 +1,133 @@
+{
+  "customers": [
+    {
+      "id": 192,
+      "externalClientNo": 10020030,
+      "channelNo": 9142,
+      "mainBranchCode": 9140,
+      "systemEntryDate": "1997-09-30T00:00:00",
+      "entryDate": "2004-03-23T00:00:00",
+      "lastModifiedBy": "DENIZ\\SVC_SSO",
+      "customerType": 1,
+      "customerTypeDetail": 1,
+      "unitStatus": 2,
+      "name": "Klong",
+      "middleName": "Beryy",
+      "surname": "Beta",
+      "firmName": "EWDYTA ŞTİ",
+      "shortName": "Haatkel Bitsai",
+      "creditGroupName": null,
+      "profile": "GG",
+      "segmentCode": 4,
+      "taxOffice": -1,
+      "taxNo": "1122554488",
+      "citizenshipNumber": "11100011122",
+      "kktcCitizenshipNumber": "0001112223",
+      "kktcTaxNo": "333444555",
+      "identityType": 4,
+      "identityNo": "22211133300",
+      "drivingLicenceNo": "100",
+      "ibSeries": "R00",
+      "ibSerialNo": "Q10000",
+      "identityCardType": 1,
+      "specialStatusType": null,
+      "birthDate": "1988-05-01T05:02:00",
+      "fatherName": "Cxtan",
+      "motherName": "Kqyat",
+      "registerNo": "",
+      "subSegmentCode": "2",
+      "recordTime": "2025-03-03T16:19:38.323",
+      "recordStatus": "A",
+      "customerAssignment": "",
+      "potentialFlag": false,
+      "potentialPrivate": "",
+      "isKktcCustomer": false,
+      "isCompany": false,
+      "isCustomerActive": true,
+      "isFactoringCustomer": false,
+      "isLeasingCustomer": false,
+      "integrateATM": false,
+      "integrateAccount": false,
+      "isUSATaxPayer": false,
+      "irsNumber": "",
+      "acqusitionFlag": false,
+      "integrateCreditCard": false,
+      "segments": null,
+      "addresses": null,
+      "emails": null,
+      "pyramids": null,
+      "obEb": null,
+      "identityCardInformation": null,
+      "portfolios": null,
+      "responsibles": null,
+      "telephones": null,
+      "extension": {
+        "id": 192,
+        "prosecutionStatus": "T",
+        "recordTime": "2025-01-27T11:32:34.467",
+        "creditAllocationDepartment": "B",
+        "authorizationCode": "-1"
+        // ... (keep rest of the nested object as-is)
+      },
+      "customerIndividual": {
+        "id": 192,
+        "jointAccountStatus": false,
+        "birthPlace": "Haxter"
+        // ... (keep rest of the nested object as-is)
+      },
+      "relations": [
+        {
+          "id": 192,
+          "relationType": 30,
+          "reverseCode": 30,
+          "relatedCustomerId": 1001112200,
+          "relatedCustomerNo": 1100100,
+          "share": 50,
+          "isChild": false,
+          "sequenceNo": 1,
+          "recordTime": "2008-06-10T10:19:45.93",
+          "citizenshipNumber": "44466677788",
+          "partnersDescription": "Doktor",
+          "relatedCustomerName": "Oxfrt Ktta",
+          "recordStatus": "A"
+        },
+        {
+          "id": 192,
+          "relationType": 30,
+          "reverseCode": 30,
+          "relatedCustomerId": 1012332100,
+          "relatedCustomerNo": 11212012,
+          "share": 50,
+          "isChild": false,
+          "sequenceNo": 1,
+          "recordTime": "2020-02-27T15:01:49.193",
+          "citizenshipNumber": "99988866677",
+          "partnersDescription": "Bilgisayar Müh",
+          "relatedCustomerName": "Bexte Nqthan",
+          "recordStatus": "A"
+        }
+      ],
+      "customerInvestmentInfo": {
+        "id": 192,
+        "investmentStatus": 0,
+        "investmentTestResult": 1,
+        "wantsInvestmentConsultancy": false
+        // ... (keep rest of the nested object as-is)
+      },
+      "customerRevenues": [
+        {
+          "id": 192,
+          "revenue": 1001,
+          "currencyCode": "",
+          "createDate": "2020-02-17T16:05:59.77",
+          "updateDate": "2019-09-30T15:10:00",
+          "channelCode": "BATCH",
+          "operationChannelId": "2",
+          "processId": 2000000012000099,
+          "customerRevenueType": ""
+        }
+      ],
+      "title": "Klong Beryy Beta"
+    }
+  ]
+}
