@@ -31,7 +31,7 @@
   "ibSerialNo": "Q10000",
   "identityCardType": 1,
   "specialStatusType": null,
-  "birthDate": "1988-05-01T05:02:00",
+  "birthDate": "2008-05-01T05:02:00",
   "fatherName": "Cxtan",
   "motherName": "Kqyat",
   "registerNo": "",
@@ -339,7 +339,7 @@
     "quantisExtreAddress": 1,
     "hasProperty": "H",
     "sector": -1,
-    "isCompany": false,
+    "isCompany": true,
     "companyTitle": "Hwtan Mxtn",
     "financeCode": "",
     "primarySchoolName": "HATMİX",
@@ -462,7 +462,7 @@
   "relations": [
     {
       "id": 192,
-      "relationType": 30,
+      "relationType": 91,
       "reverseCode": 30,
       "relatedCustomerId": 1001112200,
       "relatedCustomerNo": 1100100,
@@ -542,7 +542,7 @@
     "adjunctPortfolioManagerName": "Dplat",
     "adjunctPortfolioManagerRegisterIdSecond": 0,
     "adjunctPortfolioManagerNameSecond": "İqer",
-    "qualifiedInvestors": false,
+    "qualifiedInvestors": true,
     "qualifiedInvestorUpdateDate": "2025-01-27T11:32:34.647",
     "reconciliationStatus": -1,
     "reconcilationChannelNo": null,
@@ -616,7 +616,7 @@
       "revenue": 1001,
       "currencyCode": "",
       "createDate": "2020-02-17T16:05:59.77",
-      "updateDate": "2019-09-30T15:10:00",
+      "updateDate": "2025-09-30T15:10:00",
       "channelCode": "BATCH",
       "createUserCode": null,
       "updateUserCode": "CONVERSION",
@@ -626,7 +626,7 @@
       "flowType": "",
       "recordStatus": "A",
       "processId": 2000000012000099,
-      "customerRevenueType": ""
+      "customerRevenueType": "B"
     }
   ],
   "sourceInfo": null,
